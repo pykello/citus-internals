@@ -1,0 +1,4 @@
+default_version = '0.1'
+module_pathname = '$libdir/citus_internals'
+relocatable = true
+requires = 'citus'
